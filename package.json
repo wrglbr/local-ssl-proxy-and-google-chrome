@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "devDependencies": {
+    "chrome-launcher": "^0.10.5",
+    "hoxy": "^3.3.1",
+    "pem": "^1.13.2"
+  }
+}
