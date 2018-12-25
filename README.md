@@ -38,8 +38,18 @@ you can also use [http-proxy](https://github.com/nodejitsu/node-http-proxy) and 
 
 - [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
 - [Command-line options for proxy settings](https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-settings)
+- [起動オプション - Google Chrome まとめWiki](http://chrome.half-moon.org/43.html)
 - [Proxy Auto-Configuration (PAC) file](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_(PAC)_file)
 - [PAC Functions](http://findproxyforurl.com/pac-functions/)
+
+### Google Chrome command-line switches
+
+- https://cs.chromium.org/chromium/src/chrome/common/chrome_switches.cc
+- https://cs.chromium.org/chromium/src/ash/public/cpp/ash_switches.cc
+- https://cs.chromium.org/chromium/src/base/base_switches.cc
+- https://cs.chromium.org/chromium/src/chromeos/chromeos_switches.cc
+- https://cs.chromium.org/chromium/src/content/public/common/content_switches.cc
+- https://cs.chromium.org/chromium/src/chrome/browser/flag-metadata.json
 
 ## License
 
