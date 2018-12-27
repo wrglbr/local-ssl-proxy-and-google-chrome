@@ -1,5 +1,4 @@
 const path = require('path');
-const util = require('util');
 
 const hoxy = require('hoxy');
 const pem = require('pem');
